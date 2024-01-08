@@ -1,11 +1,11 @@
 [
     {
-      "id": 1
-      "name": "Recipe 1"
-      "category": "Veg"
-      "origin": "Indian"
-      "sub_origin": "North Indian"
-      "image_url": "https://food.fnr.sndimg.com/content/dam/images/food/fullset/2021/02/25/0/FNK_Chana-Masala_H2_s4x3.jpg.rend.hgtvcom.826.620.suffix/1614271965516.jpeg"
+      "id": 1,
+      "name": "Recipe 1",
+      "category": "Veg",
+      "origin": "Indian",
+      "sub_origin": "North Indian",
+      "image_url": "https://food.fnr.sndimg.com/content/dam/images/food/fullset/2021/02/25/0/FNK_Chana-Masala_H2_s4x3.jpg.rend.hgtvcom.826.620.suffix/1614271965516.jpeg",
       "macro_ingredients": [
         "chickpeas"
       ],
@@ -28,12 +28,12 @@
       ]
     },
      {
-      "id": 1
-      "name": "Recipe 1"
-      "category": "Veg"
-      "origin": "Indian"
-      "sub_origin": "North Indian"
-      "image_url": "https://food.fnr.sndimg.com/content/dam/images/food/fullset/2021/02/25/0/FNK_Chana-Masala_H2_s4x3.jpg.rend.hgtvcom.826.620.suffix/1614271965516.jpeg"
+      "id": 1,
+      "name": "Recipe 1",
+      "category": "Veg",
+      "origin": "Indian",
+      "sub_origin": "North Indian",
+      "image_url": "https://food.fnr.sndimg.com/content/dam/images/food/fullset/2021/02/25/0/FNK_Chana-Masala_H2_s4x3.jpg.rend.hgtvcom.826.620.suffix/1614271965516.jpeg",
       "macro_ingredients": [
         "chickpeas"
       ],
@@ -56,12 +56,12 @@
       ]
     },
      {
-      "id": 1
-      "name": "Recipe 1"
-      "category": "Veg"
-      "origin": "Indian"
-      "sub_origin": "North Indian"
-      "image_url": "https://food.fnr.sndimg.com/content/dam/images/food/fullset/2021/02/25/0/FNK_Chana-Masala_H2_s4x3.jpg.rend.hgtvcom.826.620.suffix/1614271965516.jpeg"
+      "id": 1,
+      "name": "Recipe 1",
+      "category": "Veg",
+      "origin": "Indian",
+      "sub_origin": "North Indian",
+      "image_url": "https://food.fnr.sndimg.com/content/dam/images/food/fullset/2021/02/25/0/FNK_Chana-Masala_H2_s4x3.jpg.rend.hgtvcom.826.620.suffix/1614271965516.jpeg",
       "macro_ingredients": [
         "chickpeas"
       ],
@@ -84,12 +84,12 @@
       ]
     },
      {
-      "id": 1
-      "name": "Recipe 1"
-      "category": "Veg"
-      "origin": "Indian"
-      "sub_origin": "North Indian"
-      "image_url": "https://food.fnr.sndimg.com/content/dam/images/food/fullset/2021/02/25/0/FNK_Chana-Masala_H2_s4x3.jpg.rend.hgtvcom.826.620.suffix/1614271965516.jpeg"
+      "id": 1,
+      "name": "Recipe 1",
+      "category": "Veg",
+      "origin": "Indian",
+      "sub_origin": "North Indian",
+      "image_url": "https://food.fnr.sndimg.com/content/dam/images/food/fullset/2021/02/25/0/FNK_Chana-Masala_H2_s4x3.jpg.rend.hgtvcom.826.620.suffix/1614271965516.jpeg",
       "macro_ingredients": [
         "chickpeas"
       ],
@@ -112,12 +112,12 @@
       ]
     },
      {
-      "id": 1
-      "name": "Recipe 1"
-      "category": "Veg"
-      "origin": "Indian"
-      "sub_origin": "North Indian"
-      "image_url": "https://food.fnr.sndimg.com/content/dam/images/food/fullset/2021/02/25/0/FNK_Chana-Masala_H2_s4x3.jpg.rend.hgtvcom.826.620.suffix/1614271965516.jpeg"
+      "id": 1,
+      "name": "Recipe 1",
+      "category": "Veg",
+      "origin": "Indian",
+      "sub_origin": "North Indian",
+      "image_url": "https://food.fnr.sndimg.com/content/dam/images/food/fullset/2021/02/25/0/FNK_Chana-Masala_H2_s4x3.jpg.rend.hgtvcom.826.620.suffix/1614271965516.jpeg",
       "macro_ingredients": [
         "chickpeas"
       ],
@@ -140,12 +140,12 @@
       ]
     },
      {
-      "id": 1
-      "name": "Recipe 1"
-      "category": "Veg"
-      "origin": "Indian"
-      "sub_origin": "North Indian"
-      "image_url": "https://food.fnr.sndimg.com/content/dam/images/food/fullset/2021/02/25/0/FNK_Chana-Masala_H2_s4x3.jpg.rend.hgtvcom.826.620.suffix/1614271965516.jpeg"
+      "id": 1,
+      "name": "Recipe 1",
+      "category": "Veg",
+      "origin": "Indian",
+      "sub_origin": "North Indian",
+      "image_url": "https://food.fnr.sndimg.com/content/dam/images/food/fullset/2021/02/25/0/FNK_Chana-Masala_H2_s4x3.jpg.rend.hgtvcom.826.620.suffix/1614271965516.jpeg",
       "macro_ingredients": [
         "chickpeas"
       ],
