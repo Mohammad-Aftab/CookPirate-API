@@ -1,13 +1,172 @@
 {
   "Recipes": [
     {
+      "id": 1
       "name": "Recipe 1"
+      "category": "Veg"
+      "origin": "Indian"
+      "sub-origin": "North Indian"
+      "image-url": "https://food.fnr.sndimg.com/content/dam/images/food/fullset/2021/02/25/0/FNK_Chana-Masala_H2_s4x3.jpg.rend.hgtvcom.826.620.suffix/1614271965516.jpeg"
+      "macro-ingredients": [
+        "chickpeas"
+      ],
+      "ingredients": [
+        "1 cup dried chickpeas, soaked overnight",
+        "1 pinch of baking soda",
+        "2 bay leaves",
+        "1 black tea bag (or 2 teaspoons black tea leaves in a muslin bag)",
+        "1 black cardamom pod",
+        "Kosher salt",
+        "1/4 cup ghee or oil (I like to use a combination of both)",
+        "2 medium onions, chopped (about 1 3/4 cups)"
+      ],
+      "directions": [
+        "Drain the chickpeas, then combine them in a large Dutch oven with the baking soda, bay leaves, black tea bag, black cardamom, 1 teaspoon salt and 3 cups of water. (To pressure cook the chickpeas, see Cook’s Note.) Bring the mixture to a boil in a large Dutch oven, then reduce to a simmer and cook, partially covered with a lid, until the chickpeas are tender, about 1 hour. If the liquid is evaporating too quickly before the chickpeas are tender, pour in an additional 1 cup of water and continue to cook. Discard the tea bag, bay leaves and cardamom. Drain the chickpeas and put them back in the pot.",
+        "Meanwhile, heat the ghee and/or oil in a large skillet or saucepan over medium-high heat. Add the onions and 1/2 teaspoon salt and cook, stirring and scraping occasionally, until the onions are very soft and golden brown, 10 to 12 minutes.",
+        "Add the ginger, garlic and green chiles and cook until the raw smell goes away, about 3 minutes. Add the tomatoes and 1/2 teaspoon salt and cook until well cooked and pasty, about 8 minutes. Add the Roasted Chana Masala Spice Blend along with 2 tablespoons of water and saute until well mixed and the flavors have melded, 3 to 5 minutes.",
+        "Add the spice mixture to the chickpeas with 1 cup of water (see Cook's Note), mix well and bring to a simmer over medium heat; simmer until the curry thickens and coats and infuses the chickpeas, about 5 minutes. Adjust salt to taste. Garnish with fresh cilantro and serve with lime wedges or julienned ginger slaw, if desired.",
+        "Combine the whole spices (coriander, cumin, black pepper, cinnamon and cardamom) in a small heavy skillet (preferably cast iron, if you have it) and roast over medium-high heat, shaking the pan often to ensure even roasting, until the spices start getting darker, 3 to 4 minutes. Lower the heat to low and add the powdered spices (pomegranate powder, mango powder, black salt, chile powder, turmeric and asafoetida) and cook, shaking or stirring constantly, until slightly darker, about 30 seconds. Be careful not to burn the spices. Immediately transfer the spices to a bowl and cool. Once cooled, grind the spices. You can double or triple this recipe and keep it in an airtight container for future use."
+      ]
     },
-    {
-      "name": "Recipe 2"
+     {
+      "id": 1
+      "name": "Recipe 1"
+      "category": "Veg"
+      "origin": "Indian"
+      "sub-origin": "North Indian"
+      "image-url": "https://food.fnr.sndimg.com/content/dam/images/food/fullset/2021/02/25/0/FNK_Chana-Masala_H2_s4x3.jpg.rend.hgtvcom.826.620.suffix/1614271965516.jpeg"
+      "macro-ingredients": [
+        "chickpeas"
+      ],
+      "ingredients": [
+        "1 cup dried chickpeas, soaked overnight",
+        "1 pinch of baking soda",
+        "2 bay leaves",
+        "1 black tea bag (or 2 teaspoons black tea leaves in a muslin bag)",
+        "1 black cardamom pod",
+        "Kosher salt",
+        "1/4 cup ghee or oil (I like to use a combination of both)",
+        "2 medium onions, chopped (about 1 3/4 cups)"
+      ],
+      "directions": [
+        "Drain the chickpeas, then combine them in a large Dutch oven with the baking soda, bay leaves, black tea bag, black cardamom, 1 teaspoon salt and 3 cups of water. (To pressure cook the chickpeas, see Cook’s Note.) Bring the mixture to a boil in a large Dutch oven, then reduce to a simmer and cook, partially covered with a lid, until the chickpeas are tender, about 1 hour. If the liquid is evaporating too quickly before the chickpeas are tender, pour in an additional 1 cup of water and continue to cook. Discard the tea bag, bay leaves and cardamom. Drain the chickpeas and put them back in the pot.",
+        "Meanwhile, heat the ghee and/or oil in a large skillet or saucepan over medium-high heat. Add the onions and 1/2 teaspoon salt and cook, stirring and scraping occasionally, until the onions are very soft and golden brown, 10 to 12 minutes.",
+        "Add the ginger, garlic and green chiles and cook until the raw smell goes away, about 3 minutes. Add the tomatoes and 1/2 teaspoon salt and cook until well cooked and pasty, about 8 minutes. Add the Roasted Chana Masala Spice Blend along with 2 tablespoons of water and saute until well mixed and the flavors have melded, 3 to 5 minutes.",
+        "Add the spice mixture to the chickpeas with 1 cup of water (see Cook's Note), mix well and bring to a simmer over medium heat; simmer until the curry thickens and coats and infuses the chickpeas, about 5 minutes. Adjust salt to taste. Garnish with fresh cilantro and serve with lime wedges or julienned ginger slaw, if desired.",
+        "Combine the whole spices (coriander, cumin, black pepper, cinnamon and cardamom) in a small heavy skillet (preferably cast iron, if you have it) and roast over medium-high heat, shaking the pan often to ensure even roasting, until the spices start getting darker, 3 to 4 minutes. Lower the heat to low and add the powdered spices (pomegranate powder, mango powder, black salt, chile powder, turmeric and asafoetida) and cook, shaking or stirring constantly, until slightly darker, about 30 seconds. Be careful not to burn the spices. Immediately transfer the spices to a bowl and cool. Once cooled, grind the spices. You can double or triple this recipe and keep it in an airtight container for future use."
+      ]
     },
-    {
-      "name": "Recipe 3"
+     {
+      "id": 1
+      "name": "Recipe 1"
+      "category": "Veg"
+      "origin": "Indian"
+      "sub-origin": "North Indian"
+      "image-url": "https://food.fnr.sndimg.com/content/dam/images/food/fullset/2021/02/25/0/FNK_Chana-Masala_H2_s4x3.jpg.rend.hgtvcom.826.620.suffix/1614271965516.jpeg"
+      "macro-ingredients": [
+        "chickpeas"
+      ],
+      "ingredients": [
+        "1 cup dried chickpeas, soaked overnight",
+        "1 pinch of baking soda",
+        "2 bay leaves",
+        "1 black tea bag (or 2 teaspoons black tea leaves in a muslin bag)",
+        "1 black cardamom pod",
+        "Kosher salt",
+        "1/4 cup ghee or oil (I like to use a combination of both)",
+        "2 medium onions, chopped (about 1 3/4 cups)"
+      ],
+      "directions": [
+        "Drain the chickpeas, then combine them in a large Dutch oven with the baking soda, bay leaves, black tea bag, black cardamom, 1 teaspoon salt and 3 cups of water. (To pressure cook the chickpeas, see Cook’s Note.) Bring the mixture to a boil in a large Dutch oven, then reduce to a simmer and cook, partially covered with a lid, until the chickpeas are tender, about 1 hour. If the liquid is evaporating too quickly before the chickpeas are tender, pour in an additional 1 cup of water and continue to cook. Discard the tea bag, bay leaves and cardamom. Drain the chickpeas and put them back in the pot.",
+        "Meanwhile, heat the ghee and/or oil in a large skillet or saucepan over medium-high heat. Add the onions and 1/2 teaspoon salt and cook, stirring and scraping occasionally, until the onions are very soft and golden brown, 10 to 12 minutes.",
+        "Add the ginger, garlic and green chiles and cook until the raw smell goes away, about 3 minutes. Add the tomatoes and 1/2 teaspoon salt and cook until well cooked and pasty, about 8 minutes. Add the Roasted Chana Masala Spice Blend along with 2 tablespoons of water and saute until well mixed and the flavors have melded, 3 to 5 minutes.",
+        "Add the spice mixture to the chickpeas with 1 cup of water (see Cook's Note), mix well and bring to a simmer over medium heat; simmer until the curry thickens and coats and infuses the chickpeas, about 5 minutes. Adjust salt to taste. Garnish with fresh cilantro and serve with lime wedges or julienned ginger slaw, if desired.",
+        "Combine the whole spices (coriander, cumin, black pepper, cinnamon and cardamom) in a small heavy skillet (preferably cast iron, if you have it) and roast over medium-high heat, shaking the pan often to ensure even roasting, until the spices start getting darker, 3 to 4 minutes. Lower the heat to low and add the powdered spices (pomegranate powder, mango powder, black salt, chile powder, turmeric and asafoetida) and cook, shaking or stirring constantly, until slightly darker, about 30 seconds. Be careful not to burn the spices. Immediately transfer the spices to a bowl and cool. Once cooled, grind the spices. You can double or triple this recipe and keep it in an airtight container for future use."
+      ]
     },
+     {
+      "id": 1
+      "name": "Recipe 1"
+      "category": "Veg"
+      "origin": "Indian"
+      "sub-origin": "North Indian"
+      "image-url": "https://food.fnr.sndimg.com/content/dam/images/food/fullset/2021/02/25/0/FNK_Chana-Masala_H2_s4x3.jpg.rend.hgtvcom.826.620.suffix/1614271965516.jpeg"
+      "macro-ingredients": [
+        "chickpeas"
+      ],
+      "ingredients": [
+        "1 cup dried chickpeas, soaked overnight",
+        "1 pinch of baking soda",
+        "2 bay leaves",
+        "1 black tea bag (or 2 teaspoons black tea leaves in a muslin bag)",
+        "1 black cardamom pod",
+        "Kosher salt",
+        "1/4 cup ghee or oil (I like to use a combination of both)",
+        "2 medium onions, chopped (about 1 3/4 cups)"
+      ],
+      "directions": [
+        "Drain the chickpeas, then combine them in a large Dutch oven with the baking soda, bay leaves, black tea bag, black cardamom, 1 teaspoon salt and 3 cups of water. (To pressure cook the chickpeas, see Cook’s Note.) Bring the mixture to a boil in a large Dutch oven, then reduce to a simmer and cook, partially covered with a lid, until the chickpeas are tender, about 1 hour. If the liquid is evaporating too quickly before the chickpeas are tender, pour in an additional 1 cup of water and continue to cook. Discard the tea bag, bay leaves and cardamom. Drain the chickpeas and put them back in the pot.",
+        "Meanwhile, heat the ghee and/or oil in a large skillet or saucepan over medium-high heat. Add the onions and 1/2 teaspoon salt and cook, stirring and scraping occasionally, until the onions are very soft and golden brown, 10 to 12 minutes.",
+        "Add the ginger, garlic and green chiles and cook until the raw smell goes away, about 3 minutes. Add the tomatoes and 1/2 teaspoon salt and cook until well cooked and pasty, about 8 minutes. Add the Roasted Chana Masala Spice Blend along with 2 tablespoons of water and saute until well mixed and the flavors have melded, 3 to 5 minutes.",
+        "Add the spice mixture to the chickpeas with 1 cup of water (see Cook's Note), mix well and bring to a simmer over medium heat; simmer until the curry thickens and coats and infuses the chickpeas, about 5 minutes. Adjust salt to taste. Garnish with fresh cilantro and serve with lime wedges or julienned ginger slaw, if desired.",
+        "Combine the whole spices (coriander, cumin, black pepper, cinnamon and cardamom) in a small heavy skillet (preferably cast iron, if you have it) and roast over medium-high heat, shaking the pan often to ensure even roasting, until the spices start getting darker, 3 to 4 minutes. Lower the heat to low and add the powdered spices (pomegranate powder, mango powder, black salt, chile powder, turmeric and asafoetida) and cook, shaking or stirring constantly, until slightly darker, about 30 seconds. Be careful not to burn the spices. Immediately transfer the spices to a bowl and cool. Once cooled, grind the spices. You can double or triple this recipe and keep it in an airtight container for future use."
+      ]
+    },
+     {
+      "id": 1
+      "name": "Recipe 1"
+      "category": "Veg"
+      "origin": "Indian"
+      "sub-origin": "North Indian"
+      "image-url": "https://food.fnr.sndimg.com/content/dam/images/food/fullset/2021/02/25/0/FNK_Chana-Masala_H2_s4x3.jpg.rend.hgtvcom.826.620.suffix/1614271965516.jpeg"
+      "macro-ingredients": [
+        "chickpeas"
+      ],
+      "ingredients": [
+        "1 cup dried chickpeas, soaked overnight",
+        "1 pinch of baking soda",
+        "2 bay leaves",
+        "1 black tea bag (or 2 teaspoons black tea leaves in a muslin bag)",
+        "1 black cardamom pod",
+        "Kosher salt",
+        "1/4 cup ghee or oil (I like to use a combination of both)",
+        "2 medium onions, chopped (about 1 3/4 cups)"
+      ],
+      "directions": [
+        "Drain the chickpeas, then combine them in a large Dutch oven with the baking soda, bay leaves, black tea bag, black cardamom, 1 teaspoon salt and 3 cups of water. (To pressure cook the chickpeas, see Cook’s Note.) Bring the mixture to a boil in a large Dutch oven, then reduce to a simmer and cook, partially covered with a lid, until the chickpeas are tender, about 1 hour. If the liquid is evaporating too quickly before the chickpeas are tender, pour in an additional 1 cup of water and continue to cook. Discard the tea bag, bay leaves and cardamom. Drain the chickpeas and put them back in the pot.",
+        "Meanwhile, heat the ghee and/or oil in a large skillet or saucepan over medium-high heat. Add the onions and 1/2 teaspoon salt and cook, stirring and scraping occasionally, until the onions are very soft and golden brown, 10 to 12 minutes.",
+        "Add the ginger, garlic and green chiles and cook until the raw smell goes away, about 3 minutes. Add the tomatoes and 1/2 teaspoon salt and cook until well cooked and pasty, about 8 minutes. Add the Roasted Chana Masala Spice Blend along with 2 tablespoons of water and saute until well mixed and the flavors have melded, 3 to 5 minutes.",
+        "Add the spice mixture to the chickpeas with 1 cup of water (see Cook's Note), mix well and bring to a simmer over medium heat; simmer until the curry thickens and coats and infuses the chickpeas, about 5 minutes. Adjust salt to taste. Garnish with fresh cilantro and serve with lime wedges or julienned ginger slaw, if desired.",
+        "Combine the whole spices (coriander, cumin, black pepper, cinnamon and cardamom) in a small heavy skillet (preferably cast iron, if you have it) and roast over medium-high heat, shaking the pan often to ensure even roasting, until the spices start getting darker, 3 to 4 minutes. Lower the heat to low and add the powdered spices (pomegranate powder, mango powder, black salt, chile powder, turmeric and asafoetida) and cook, shaking or stirring constantly, until slightly darker, about 30 seconds. Be careful not to burn the spices. Immediately transfer the spices to a bowl and cool. Once cooled, grind the spices. You can double or triple this recipe and keep it in an airtight container for future use."
+      ]
+    },
+     {
+      "id": 1
+      "name": "Recipe 1"
+      "category": "Veg"
+      "origin": "Indian"
+      "sub-origin": "North Indian"
+      "image-url": "https://food.fnr.sndimg.com/content/dam/images/food/fullset/2021/02/25/0/FNK_Chana-Masala_H2_s4x3.jpg.rend.hgtvcom.826.620.suffix/1614271965516.jpeg"
+      "macro-ingredients": [
+        "chickpeas"
+      ],
+      "ingredients": [
+        "1 cup dried chickpeas, soaked overnight",
+        "1 pinch of baking soda",
+        "2 bay leaves",
+        "1 black tea bag (or 2 teaspoons black tea leaves in a muslin bag)",
+        "1 black cardamom pod",
+        "Kosher salt",
+        "1/4 cup ghee or oil (I like to use a combination of both)",
+        "2 medium onions, chopped (about 1 3/4 cups)"
+      ],
+      "directions": [
+        "Drain the chickpeas, then combine them in a large Dutch oven with the baking soda, bay leaves, black tea bag, black cardamom, 1 teaspoon salt and 3 cups of water. (To pressure cook the chickpeas, see Cook’s Note.) Bring the mixture to a boil in a large Dutch oven, then reduce to a simmer and cook, partially covered with a lid, until the chickpeas are tender, about 1 hour. If the liquid is evaporating too quickly before the chickpeas are tender, pour in an additional 1 cup of water and continue to cook. Discard the tea bag, bay leaves and cardamom. Drain the chickpeas and put them back in the pot.",
+        "Meanwhile, heat the ghee and/or oil in a large skillet or saucepan over medium-high heat. Add the onions and 1/2 teaspoon salt and cook, stirring and scraping occasionally, until the onions are very soft and golden brown, 10 to 12 minutes.",
+        "Add the ginger, garlic and green chiles and cook until the raw smell goes away, about 3 minutes. Add the tomatoes and 1/2 teaspoon salt and cook until well cooked and pasty, about 8 minutes. Add the Roasted Chana Masala Spice Blend along with 2 tablespoons of water and saute until well mixed and the flavors have melded, 3 to 5 minutes.",
+        "Add the spice mixture to the chickpeas with 1 cup of water (see Cook's Note), mix well and bring to a simmer over medium heat; simmer until the curry thickens and coats and infuses the chickpeas, about 5 minutes. Adjust salt to taste. Garnish with fresh cilantro and serve with lime wedges or julienned ginger slaw, if desired.",
+        "Combine the whole spices (coriander, cumin, black pepper, cinnamon and cardamom) in a small heavy skillet (preferably cast iron, if you have it) and roast over medium-high heat, shaking the pan often to ensure even roasting, until the spices start getting darker, 3 to 4 minutes. Lower the heat to low and add the powdered spices (pomegranate powder, mango powder, black salt, chile powder, turmeric and asafoetida) and cook, shaking or stirring constantly, until slightly darker, about 30 seconds. Be careful not to burn the spices. Immediately transfer the spices to a bowl and cool. Once cooled, grind the spices. You can double or triple this recipe and keep it in an airtight container for future use."
+      ]
+    }
   ]
 }
