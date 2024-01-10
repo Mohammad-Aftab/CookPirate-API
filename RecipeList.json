@@ -29,13 +29,14 @@
     },
      {
       "id": 1,
-      "name": "Recipe 1",
+      "name": "Recipe 2",
       "category": "Veg",
       "origin": "Indian",
       "sub_origin": "North Indian",
       "image_url": "https://food.fnr.sndimg.com/content/dam/images/food/fullset/2021/02/25/0/FNK_Chana-Masala_H2_s4x3.jpg.rend.hgtvcom.826.620.suffix/1614271965516.jpeg",
       "macro_ingredients": [
-        "chickpeas"
+        "chickpeas",
+          "potato"
       ],
       "ingredients": [
         "1 cup dried chickpeas, soaked overnight",
@@ -57,13 +58,14 @@
     },
      {
       "id": 1,
-      "name": "Recipe 1",
+      "name": "Recipe 3",
       "category": "Veg",
       "origin": "Indian",
       "sub_origin": "North Indian",
       "image_url": "https://food.fnr.sndimg.com/content/dam/images/food/fullset/2021/02/25/0/FNK_Chana-Masala_H2_s4x3.jpg.rend.hgtvcom.826.620.suffix/1614271965516.jpeg",
       "macro_ingredients": [
-        "chickpeas"
+        "potato",
+          "onion"
       ],
       "ingredients": [
         "1 cup dried chickpeas, soaked overnight",
@@ -85,13 +87,13 @@
     },
      {
       "id": 1,
-      "name": "Recipe 1",
+      "name": "Recipe 4",
       "category": "Veg",
       "origin": "Indian",
       "sub_origin": "North Indian",
       "image_url": "https://food.fnr.sndimg.com/content/dam/images/food/fullset/2021/02/25/0/FNK_Chana-Masala_H2_s4x3.jpg.rend.hgtvcom.826.620.suffix/1614271965516.jpeg",
       "macro_ingredients": [
-        "chickpeas"
+        "tomato"
       ],
       "ingredients": [
         "1 cup dried chickpeas, soaked overnight",
@@ -113,13 +115,14 @@
     },
      {
       "id": 1,
-      "name": "Recipe 1",
+      "name": "Recipe 5",
       "category": "Veg",
       "origin": "Indian",
       "sub_origin": "North Indian",
       "image_url": "https://food.fnr.sndimg.com/content/dam/images/food/fullset/2021/02/25/0/FNK_Chana-Masala_H2_s4x3.jpg.rend.hgtvcom.826.620.suffix/1614271965516.jpeg",
       "macro_ingredients": [
-        "chickpeas"
+        "chickpeas",
+          "tomato"
       ],
       "ingredients": [
         "1 cup dried chickpeas, soaked overnight",
@@ -141,7 +144,7 @@
     },
      {
       "id": 1,
-      "name": "Recipe 1",
+      "name": "Recipe 6",
       "category": "Veg",
       "origin": "Indian",
       "sub_origin": "North Indian",
