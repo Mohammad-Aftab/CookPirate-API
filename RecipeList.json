@@ -1,173 +1,298 @@
 [
-    {
-      "id": 1,
-      "name": "Recipe 1",
-      "category": "Veg",
-      "origin": "Indian",
-      "sub_origin": "North Indian",
-      "image_url": "https://food.fnr.sndimg.com/content/dam/images/food/fullset/2021/02/25/0/FNK_Chana-Masala_H2_s4x3.jpg.rend.hgtvcom.826.620.suffix/1614271965516.jpeg",
-      "macro_ingredients": [
-        "chickpeas"
-      ],
-      "ingredients": [
-        "1 cup dried chickpeas, soaked overnight",
-        "1 pinch of baking soda",
-        "2 bay leaves",
-        "1 black tea bag (or 2 teaspoons black tea leaves in a muslin bag)",
-        "1 black cardamom pod",
-        "Kosher salt",
-        "1/4 cup ghee or oil (I like to use a combination of both)",
-        "2 medium onions, chopped (about 1 3/4 cups)"
-      ],
-      "directions": [
-        "Drain the chickpeas, then combine them in a large Dutch oven with the baking soda, bay leaves, black tea bag, black cardamom, 1 teaspoon salt and 3 cups of water. (To pressure cook the chickpeas, see Cook’s Note.) Bring the mixture to a boil in a large Dutch oven, then reduce to a simmer and cook, partially covered with a lid, until the chickpeas are tender, about 1 hour. If the liquid is evaporating too quickly before the chickpeas are tender, pour in an additional 1 cup of water and continue to cook. Discard the tea bag, bay leaves and cardamom. Drain the chickpeas and put them back in the pot.",
-        "Meanwhile, heat the ghee and/or oil in a large skillet or saucepan over medium-high heat. Add the onions and 1/2 teaspoon salt and cook, stirring and scraping occasionally, until the onions are very soft and golden brown, 10 to 12 minutes.",
-        "Add the ginger, garlic and green chiles and cook until the raw smell goes away, about 3 minutes. Add the tomatoes and 1/2 teaspoon salt and cook until well cooked and pasty, about 8 minutes. Add the Roasted Chana Masala Spice Blend along with 2 tablespoons of water and saute until well mixed and the flavors have melded, 3 to 5 minutes.",
-        "Add the spice mixture to the chickpeas with 1 cup of water (see Cook's Note), mix well and bring to a simmer over medium heat; simmer until the curry thickens and coats and infuses the chickpeas, about 5 minutes. Adjust salt to taste. Garnish with fresh cilantro and serve with lime wedges or julienned ginger slaw, if desired.",
-        "Combine the whole spices (coriander, cumin, black pepper, cinnamon and cardamom) in a small heavy skillet (preferably cast iron, if you have it) and roast over medium-high heat, shaking the pan often to ensure even roasting, until the spices start getting darker, 3 to 4 minutes. Lower the heat to low and add the powdered spices (pomegranate powder, mango powder, black salt, chile powder, turmeric and asafoetida) and cook, shaking or stirring constantly, until slightly darker, about 30 seconds. Be careful not to burn the spices. Immediately transfer the spices to a bowl and cool. Once cooled, grind the spices. You can double or triple this recipe and keep it in an airtight container for future use."
-      ]
-    },
-     {
-      "id": 1,
-      "name": "Recipe 2",
-      "category": "Veg",
-      "origin": "Indian",
-      "sub_origin": "North Indian",
-      "image_url": "https://food.fnr.sndimg.com/content/dam/images/food/fullset/2021/02/25/0/FNK_Chana-Masala_H2_s4x3.jpg.rend.hgtvcom.826.620.suffix/1614271965516.jpeg",
-      "macro_ingredients": [
-        "chickpeas",
-          "potato"
-      ],
-      "ingredients": [
-        "1 cup dried chickpeas, soaked overnight",
-        "1 pinch of baking soda",
-        "2 bay leaves",
-        "1 black tea bag (or 2 teaspoons black tea leaves in a muslin bag)",
-        "1 black cardamom pod",
-        "Kosher salt",
-        "1/4 cup ghee or oil (I like to use a combination of both)",
-        "2 medium onions, chopped (about 1 3/4 cups)"
-      ],
-      "directions": [
-        "Drain the chickpeas, then combine them in a large Dutch oven with the baking soda, bay leaves, black tea bag, black cardamom, 1 teaspoon salt and 3 cups of water. (To pressure cook the chickpeas, see Cook’s Note.) Bring the mixture to a boil in a large Dutch oven, then reduce to a simmer and cook, partially covered with a lid, until the chickpeas are tender, about 1 hour. If the liquid is evaporating too quickly before the chickpeas are tender, pour in an additional 1 cup of water and continue to cook. Discard the tea bag, bay leaves and cardamom. Drain the chickpeas and put them back in the pot.",
-        "Meanwhile, heat the ghee and/or oil in a large skillet or saucepan over medium-high heat. Add the onions and 1/2 teaspoon salt and cook, stirring and scraping occasionally, until the onions are very soft and golden brown, 10 to 12 minutes.",
-        "Add the ginger, garlic and green chiles and cook until the raw smell goes away, about 3 minutes. Add the tomatoes and 1/2 teaspoon salt and cook until well cooked and pasty, about 8 minutes. Add the Roasted Chana Masala Spice Blend along with 2 tablespoons of water and saute until well mixed and the flavors have melded, 3 to 5 minutes.",
-        "Add the spice mixture to the chickpeas with 1 cup of water (see Cook's Note), mix well and bring to a simmer over medium heat; simmer until the curry thickens and coats and infuses the chickpeas, about 5 minutes. Adjust salt to taste. Garnish with fresh cilantro and serve with lime wedges or julienned ginger slaw, if desired.",
-        "Combine the whole spices (coriander, cumin, black pepper, cinnamon and cardamom) in a small heavy skillet (preferably cast iron, if you have it) and roast over medium-high heat, shaking the pan often to ensure even roasting, until the spices start getting darker, 3 to 4 minutes. Lower the heat to low and add the powdered spices (pomegranate powder, mango powder, black salt, chile powder, turmeric and asafoetida) and cook, shaking or stirring constantly, until slightly darker, about 30 seconds. Be careful not to burn the spices. Immediately transfer the spices to a bowl and cool. Once cooled, grind the spices. You can double or triple this recipe and keep it in an airtight container for future use."
-      ]
-    },
-     {
-      "id": 1,
-      "name": "Recipe 3",
-      "category": "Veg",
-      "origin": "Indian",
-      "sub_origin": "North Indian",
-      "image_url": "https://food.fnr.sndimg.com/content/dam/images/food/fullset/2021/02/25/0/FNK_Chana-Masala_H2_s4x3.jpg.rend.hgtvcom.826.620.suffix/1614271965516.jpeg",
-      "macro_ingredients": [
-        "potato",
-          "onion"
-      ],
-      "ingredients": [
-        "1 cup dried chickpeas, soaked overnight",
-        "1 pinch of baking soda",
-        "2 bay leaves",
-        "1 black tea bag (or 2 teaspoons black tea leaves in a muslin bag)",
-        "1 black cardamom pod",
-        "Kosher salt",
-        "1/4 cup ghee or oil (I like to use a combination of both)",
-        "2 medium onions, chopped (about 1 3/4 cups)"
-      ],
-      "directions": [
-        "Drain the chickpeas, then combine them in a large Dutch oven with the baking soda, bay leaves, black tea bag, black cardamom, 1 teaspoon salt and 3 cups of water. (To pressure cook the chickpeas, see Cook’s Note.) Bring the mixture to a boil in a large Dutch oven, then reduce to a simmer and cook, partially covered with a lid, until the chickpeas are tender, about 1 hour. If the liquid is evaporating too quickly before the chickpeas are tender, pour in an additional 1 cup of water and continue to cook. Discard the tea bag, bay leaves and cardamom. Drain the chickpeas and put them back in the pot.",
-        "Meanwhile, heat the ghee and/or oil in a large skillet or saucepan over medium-high heat. Add the onions and 1/2 teaspoon salt and cook, stirring and scraping occasionally, until the onions are very soft and golden brown, 10 to 12 minutes.",
-        "Add the ginger, garlic and green chiles and cook until the raw smell goes away, about 3 minutes. Add the tomatoes and 1/2 teaspoon salt and cook until well cooked and pasty, about 8 minutes. Add the Roasted Chana Masala Spice Blend along with 2 tablespoons of water and saute until well mixed and the flavors have melded, 3 to 5 minutes.",
-        "Add the spice mixture to the chickpeas with 1 cup of water (see Cook's Note), mix well and bring to a simmer over medium heat; simmer until the curry thickens and coats and infuses the chickpeas, about 5 minutes. Adjust salt to taste. Garnish with fresh cilantro and serve with lime wedges or julienned ginger slaw, if desired.",
-        "Combine the whole spices (coriander, cumin, black pepper, cinnamon and cardamom) in a small heavy skillet (preferably cast iron, if you have it) and roast over medium-high heat, shaking the pan often to ensure even roasting, until the spices start getting darker, 3 to 4 minutes. Lower the heat to low and add the powdered spices (pomegranate powder, mango powder, black salt, chile powder, turmeric and asafoetida) and cook, shaking or stirring constantly, until slightly darker, about 30 seconds. Be careful not to burn the spices. Immediately transfer the spices to a bowl and cool. Once cooled, grind the spices. You can double or triple this recipe and keep it in an airtight container for future use."
-      ]
-    },
-     {
-      "id": 1,
-      "name": "Recipe 4",
-      "category": "Veg",
-      "origin": "Indian",
-      "sub_origin": "North Indian",
-      "image_url": "https://food.fnr.sndimg.com/content/dam/images/food/fullset/2021/02/25/0/FNK_Chana-Masala_H2_s4x3.jpg.rend.hgtvcom.826.620.suffix/1614271965516.jpeg",
-      "macro_ingredients": [
-        "tomato"
-      ],
-      "ingredients": [
-        "1 cup dried chickpeas, soaked overnight",
-        "1 pinch of baking soda",
-        "2 bay leaves",
-        "1 black tea bag (or 2 teaspoons black tea leaves in a muslin bag)",
-        "1 black cardamom pod",
-        "Kosher salt",
-        "1/4 cup ghee or oil (I like to use a combination of both)",
-        "2 medium onions, chopped (about 1 3/4 cups)"
-      ],
-      "directions": [
-        "Drain the chickpeas, then combine them in a large Dutch oven with the baking soda, bay leaves, black tea bag, black cardamom, 1 teaspoon salt and 3 cups of water. (To pressure cook the chickpeas, see Cook’s Note.) Bring the mixture to a boil in a large Dutch oven, then reduce to a simmer and cook, partially covered with a lid, until the chickpeas are tender, about 1 hour. If the liquid is evaporating too quickly before the chickpeas are tender, pour in an additional 1 cup of water and continue to cook. Discard the tea bag, bay leaves and cardamom. Drain the chickpeas and put them back in the pot.",
-        "Meanwhile, heat the ghee and/or oil in a large skillet or saucepan over medium-high heat. Add the onions and 1/2 teaspoon salt and cook, stirring and scraping occasionally, until the onions are very soft and golden brown, 10 to 12 minutes.",
-        "Add the ginger, garlic and green chiles and cook until the raw smell goes away, about 3 minutes. Add the tomatoes and 1/2 teaspoon salt and cook until well cooked and pasty, about 8 minutes. Add the Roasted Chana Masala Spice Blend along with 2 tablespoons of water and saute until well mixed and the flavors have melded, 3 to 5 minutes.",
-        "Add the spice mixture to the chickpeas with 1 cup of water (see Cook's Note), mix well and bring to a simmer over medium heat; simmer until the curry thickens and coats and infuses the chickpeas, about 5 minutes. Adjust salt to taste. Garnish with fresh cilantro and serve with lime wedges or julienned ginger slaw, if desired.",
-        "Combine the whole spices (coriander, cumin, black pepper, cinnamon and cardamom) in a small heavy skillet (preferably cast iron, if you have it) and roast over medium-high heat, shaking the pan often to ensure even roasting, until the spices start getting darker, 3 to 4 minutes. Lower the heat to low and add the powdered spices (pomegranate powder, mango powder, black salt, chile powder, turmeric and asafoetida) and cook, shaking or stirring constantly, until slightly darker, about 30 seconds. Be careful not to burn the spices. Immediately transfer the spices to a bowl and cool. Once cooled, grind the spices. You can double or triple this recipe and keep it in an airtight container for future use."
-      ]
-    },
-     {
-      "id": 1,
-      "name": "Recipe 5",
-      "category": "Veg",
-      "origin": "Indian",
-      "sub_origin": "North Indian",
-      "image_url": "https://food.fnr.sndimg.com/content/dam/images/food/fullset/2021/02/25/0/FNK_Chana-Masala_H2_s4x3.jpg.rend.hgtvcom.826.620.suffix/1614271965516.jpeg",
-      "macro_ingredients": [
-        "chickpeas",
-          "tomato"
-      ],
-      "ingredients": [
-        "1 cup dried chickpeas, soaked overnight",
-        "1 pinch of baking soda",
-        "2 bay leaves",
-        "1 black tea bag (or 2 teaspoons black tea leaves in a muslin bag)",
-        "1 black cardamom pod",
-        "Kosher salt",
-        "1/4 cup ghee or oil (I like to use a combination of both)",
-        "2 medium onions, chopped (about 1 3/4 cups)"
-      ],
-      "directions": [
-        "Drain the chickpeas, then combine them in a large Dutch oven with the baking soda, bay leaves, black tea bag, black cardamom, 1 teaspoon salt and 3 cups of water. (To pressure cook the chickpeas, see Cook’s Note.) Bring the mixture to a boil in a large Dutch oven, then reduce to a simmer and cook, partially covered with a lid, until the chickpeas are tender, about 1 hour. If the liquid is evaporating too quickly before the chickpeas are tender, pour in an additional 1 cup of water and continue to cook. Discard the tea bag, bay leaves and cardamom. Drain the chickpeas and put them back in the pot.",
-        "Meanwhile, heat the ghee and/or oil in a large skillet or saucepan over medium-high heat. Add the onions and 1/2 teaspoon salt and cook, stirring and scraping occasionally, until the onions are very soft and golden brown, 10 to 12 minutes.",
-        "Add the ginger, garlic and green chiles and cook until the raw smell goes away, about 3 minutes. Add the tomatoes and 1/2 teaspoon salt and cook until well cooked and pasty, about 8 minutes. Add the Roasted Chana Masala Spice Blend along with 2 tablespoons of water and saute until well mixed and the flavors have melded, 3 to 5 minutes.",
-        "Add the spice mixture to the chickpeas with 1 cup of water (see Cook's Note), mix well and bring to a simmer over medium heat; simmer until the curry thickens and coats and infuses the chickpeas, about 5 minutes. Adjust salt to taste. Garnish with fresh cilantro and serve with lime wedges or julienned ginger slaw, if desired.",
-        "Combine the whole spices (coriander, cumin, black pepper, cinnamon and cardamom) in a small heavy skillet (preferably cast iron, if you have it) and roast over medium-high heat, shaking the pan often to ensure even roasting, until the spices start getting darker, 3 to 4 minutes. Lower the heat to low and add the powdered spices (pomegranate powder, mango powder, black salt, chile powder, turmeric and asafoetida) and cook, shaking or stirring constantly, until slightly darker, about 30 seconds. Be careful not to burn the spices. Immediately transfer the spices to a bowl and cool. Once cooled, grind the spices. You can double or triple this recipe and keep it in an airtight container for future use."
-      ]
-    },
-     {
-      "id": 1,
-      "name": "Recipe 6",
-      "category": "Veg",
-      "origin": "Indian",
-      "sub_origin": "North Indian",
-      "image_url": "https://food.fnr.sndimg.com/content/dam/images/food/fullset/2021/02/25/0/FNK_Chana-Masala_H2_s4x3.jpg.rend.hgtvcom.826.620.suffix/1614271965516.jpeg",
-      "macro_ingredients": [
-        "chickpeas"
-      ],
-      "ingredients": [
-        "1 cup dried chickpeas, soaked overnight",
-        "1 pinch of baking soda",
-        "2 bay leaves",
-        "1 black tea bag (or 2 teaspoons black tea leaves in a muslin bag)",
-        "1 black cardamom pod",
-        "Kosher salt",
-        "1/4 cup ghee or oil (I like to use a combination of both)",
-        "2 medium onions, chopped (about 1 3/4 cups)"
-      ],
-      "directions": [
-        "Drain the chickpeas, then combine them in a large Dutch oven with the baking soda, bay leaves, black tea bag, black cardamom, 1 teaspoon salt and 3 cups of water. (To pressure cook the chickpeas, see Cook’s Note.) Bring the mixture to a boil in a large Dutch oven, then reduce to a simmer and cook, partially covered with a lid, until the chickpeas are tender, about 1 hour. If the liquid is evaporating too quickly before the chickpeas are tender, pour in an additional 1 cup of water and continue to cook. Discard the tea bag, bay leaves and cardamom. Drain the chickpeas and put them back in the pot.",
-        "Meanwhile, heat the ghee and/or oil in a large skillet or saucepan over medium-high heat. Add the onions and 1/2 teaspoon salt and cook, stirring and scraping occasionally, until the onions are very soft and golden brown, 10 to 12 minutes.",
-        "Add the ginger, garlic and green chiles and cook until the raw smell goes away, about 3 minutes. Add the tomatoes and 1/2 teaspoon salt and cook until well cooked and pasty, about 8 minutes. Add the Roasted Chana Masala Spice Blend along with 2 tablespoons of water and saute until well mixed and the flavors have melded, 3 to 5 minutes.",
-        "Add the spice mixture to the chickpeas with 1 cup of water (see Cook's Note), mix well and bring to a simmer over medium heat; simmer until the curry thickens and coats and infuses the chickpeas, about 5 minutes. Adjust salt to taste. Garnish with fresh cilantro and serve with lime wedges or julienned ginger slaw, if desired.",
-        "Combine the whole spices (coriander, cumin, black pepper, cinnamon and cardamom) in a small heavy skillet (preferably cast iron, if you have it) and roast over medium-high heat, shaking the pan often to ensure even roasting, until the spices start getting darker, 3 to 4 minutes. Lower the heat to low and add the powdered spices (pomegranate powder, mango powder, black salt, chile powder, turmeric and asafoetida) and cook, shaking or stirring constantly, until slightly darker, about 30 seconds. Be careful not to burn the spices. Immediately transfer the spices to a bowl and cool. Once cooled, grind the spices. You can double or triple this recipe and keep it in an airtight container for future use."
-      ]
-    }
-  ]
+  {
+    "id": 1,
+    "name": "Paneer Tikka Masala",
+    "category": "Veg",
+    "origin": "Indian",
+    "sub_origin": "North Indian",
+    "image_url": "https://s3.amazonaws.com/static.realcaliforniamilk.com/media/recipes_2/paneer-tikka-masala.jpg",
+    "macro_ingredients": [
+      "paneer",
+      "bell peppers"
+    ],
+    "ingredients": [
+      "250g paneer, cubed",
+      "1 cup bell peppers, diced",
+      "1 cup yogurt",
+      "1 tablespoon ginger-garlic paste",
+      "2 tablespoons tikka masala spice blend",
+      "Salt to taste",
+      "2 tablespoons oil",
+      "Fresh coriander for garnish"
+    ],
+    "directions": [
+      "In a bowl, mix yogurt, ginger-garlic paste, tikka masala spice blend, and salt to create a marinade.",
+      "Add paneer and bell peppers to the marinade. Let it marinate for at least 1 hour.",
+      "Thread marinated paneer and bell peppers onto skewers.",
+      "Heat oil in a pan and grill the skewers until paneer is golden brown.",
+      "Garnish with fresh coriander and serve hot."
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Chicken Biryani",
+    "category": "Non-Veg",
+    "origin": "Indian",
+    "sub_origin": "South Indian",
+    "image_url": "https://static.toiimg.com/thumb/54308405.cms?imgsize=510571&width=800&height=800",
+    "macro_ingredients": [
+      "chicken",
+      "basmati rice"
+    ],
+    "ingredients": [
+      "500g chicken, cut into pieces",
+      "2 cups basmati rice, soaked",
+      "2 onions, thinly sliced",
+      "1/2 cup yogurt",
+      "1 tablespoon ginger-garlic paste",
+      "Biryani spice mix",
+      "Handful of mint and coriander leaves",
+      "Ghee for cooking"
+    ],
+    "directions": [
+      "In a pan, heat ghee and sauté sliced onions until golden brown. Set aside half for garnish.",
+      "Marinate chicken with yogurt, ginger-garlic paste, and biryani spice mix. Let it marinate for 2 hours.",
+      "In a large pot, layer marinated chicken, soaked basmati rice, mint, coriander, and sautéed onions.",
+      "Repeat the layers and drizzle ghee on top.",
+      "Cover and cook on low heat until rice is cooked and chicken is tender."
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Masoor Dal Tadka",
+    "category": "Veg",
+    "origin": "Indian",
+    "sub_origin": "North Indian",
+    "image_url": "https://i.ytimg.com/vi/CScddWNqwOI/maxresdefault.jpg",
+    "macro_ingredients": [
+      "red lentils",
+      "tomatoes"
+    ],
+    "ingredients": [
+      "1 cup masoor dal (red lentils), washed",
+      "2 tomatoes, chopped",
+      "1 onion, finely chopped",
+      "1 teaspoon cumin seeds",
+      "1 teaspoon mustard seeds",
+      "1 teaspoon turmeric powder",
+      "1 teaspoon red chili powder",
+      "Salt to taste",
+      "Fresh coriander for garnish"
+    ],
+    "directions": [
+      "Boil masoor dal in a pot until soft. Set aside.",
+      "In a pan, heat oil and add cumin seeds, mustard seeds, and chopped onions. Sauté until onions are golden brown.",
+      "Add chopped tomatoes, turmeric powder, red chili powder, and salt. Cook until tomatoes are soft.",
+      "Add the cooked dal to the tomato mixture. Simmer for 10 minutes.",
+      "Garnish with fresh coriander and serve with rice or bread."
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Aloo Gobi",
+    "category": "Veg",
+    "origin": "Indian",
+    "sub_origin": "North Indian",
+    "image_url": "https://ministryofcurry.com/wp-content/uploads/2017/04/Aloo-Gobi-5.jpg",
+    "macro_ingredients": [
+      "potatoes",
+      "cauliflower"
+    ],
+    "ingredients": [
+      "2 potatoes, cubed",
+      "1 cup cauliflower florets",
+      "1 onion, finely chopped",
+      "1 tomato, chopped",
+      "1 teaspoon cumin seeds",
+      "1 teaspoon turmeric powder",
+      "1 teaspoon garam masala",
+      "Salt to taste",
+      "Fresh coriander for garnish"
+    ],
+    "directions": [
+      "In a pan, heat oil and add cumin seeds. Sauté chopped onions until golden brown.",
+      "Add chopped tomatoes, turmeric powder, garam masala, and salt. Cook until tomatoes are soft.",
+      "Add cubed potatoes and cauliflower florets. Mix well and cover. Cook until vegetables are tender.",
+      "Garnish with fresh coriander and serve hot."
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Palak Paneer",
+    "category": "Veg",
+    "origin": "Indian",
+    "sub_origin": "North Indian",
+    "image_url": "https://www.indianveggiedelight.com/wp-content/uploads/2017/10/palak-paneer-recipe-featured-500x500.jpg",
+    "macro_ingredients": [
+      "paneer",
+      "spinach"
+    ],
+    "ingredients": [
+      "250g paneer, cubed",
+      "2 cups spinach, chopped",
+      "1 onion, finely chopped",
+      "1 tomato, chopped",
+      "1 teaspoon cumin seeds",
+      "1 teaspoon coriander powder",
+      "1 teaspoon garam masala",
+      "Salt to taste",
+      "Cream for garnish"
+    ],
+    "directions": [
+      "Blanch chopped spinach in hot water and blend into a smooth puree.",
+      "In a pan, heat oil and add cumin seeds. Sauté chopped onions until golden brown.",
+      "Add chopped tomatoes, coriander powder, garam masala, and salt. Cook until tomatoes are soft.",
+      "Add paneer cubes and spinach puree. Simmer for 10 minutes.",
+      "Garnish with cream and serve with naan or rice."
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Vegetable Biryani",
+    "category": "Veg",
+    "origin": "Indian",
+    "sub_origin": "South Indian",
+    "image_url": "https://vegecravings.com/wp-content/uploads/2016/07/veg-biryani-recipe-step-by-step-instructions.jpg.webp",
+    "macro_ingredients": [
+      "mixed vegetables",
+      "basmati rice"
+    ],
+    "ingredients": [
+      "2 cups mixed vegetables (carrots, peas, beans)",
+      "2 cups basmati rice, soaked",
+      "1 onion, thinly sliced",
+      "1/2 cup yogurt",
+      "1 tablespoon ginger-garlic paste",
+      "Biryani spice mix",
+      "Handful of mint and coriander leaves",
+      "Ghee for cooking"
+    ],
+    "directions": [
+      "In a pan, heat ghee and sauté sliced onions until golden brown. Set aside half for garnish.",
+      "Mix mixed vegetables with yogurt, ginger-garlic paste, and biryani spice mix. Let it marinate for 1 hour.",
+      "In a large pot, layer marinated vegetables, soaked basmati rice, mint, coriander, and sautéed onions.",
+      "Repeat the layers and drizzle ghee on top.",
+      "Cover and cook on low heat until rice is cooked and vegetables are tender."
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Dal Makhani",
+    "category": "Veg",
+    "origin": "Indian",
+    "sub_origin": "North Indian",
+    "image_url": "https://www.funfoodfrolic.com/wp-content/uploads/2023/04/Dal-Makhani-Blog.jpg",
+    "macro_ingredients": [
+      "black lentils",
+      "kidney beans"
+    ],
+    "ingredients": [
+      "1 cup black lentils (urad dal), soaked",
+      "1/2 cup kidney beans (rajma), soaked",
+      "1 onion, finely chopped",
+      "2 tomatoes, pureed",
+      "1 tablespoon ginger-garlic paste",
+      "1 teaspoon cumin seeds",
+      "1 teaspoon garam masala",
+      "1/2 cup cream",
+      "Butter for cooking"
+    ],
+    "directions": [
+      "Boil soaked black lentils and kidney beans in a pressure cooker until soft. Set aside.",
+      "In a pan, heat butter and add cumin seeds. Sauté chopped onions until golden brown.",
+      "Add ginger-garlic paste and pureed tomatoes. Cook until the mixture thickens.",
+      "Add boiled lentils and kidney beans, garam masala, and salt. Simmer for 15-20 minutes.",
+      "Stir in cream and cook for an additional 5 minutes. Serve hot."
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Vegetable Korma",
+    "category": "Veg",
+    "origin": "Indian",
+    "sub_origin": "South Indian",
+    "image_url": "https://thewanderlustkitchen.com/wp-content/uploads/2016/11/indian-vegetable-korma-recipe-3-2.jpg",
+    "macro_ingredients": [
+      "mixed vegetables",
+      "coconut"
+    ],
+    "ingredients": [
+      "2 cups mixed vegetables (carrots, potatoes, peas)",
+      "1 cup coconut, grated",
+      "1 onion, finely chopped",
+      "2 tomatoes, chopped",
+      "1/2 cup yogurt",
+      "1 teaspoon ginger-garlic paste",
+      "1 teaspoon coriander powder",
+      "1/2 teaspoon turmeric powder",
+      "Cashews for garnish"
+    ],
+    "directions": [
+      "In a pan, heat oil and sauté chopped onions until golden brown.",
+      "Add ginger-garlic paste, chopped tomatoes, coriander powder, and turmeric powder. Cook until tomatoes are soft.",
+      "Add mixed vegetables and cook until they are half-cooked.",
+      "In a blender, grind grated coconut with yogurt to form a smooth paste.",
+      "Add the coconut-yogurt paste to the vegetables and simmer until vegetables are tender.",
+      "Garnish with cashews and serve hot."
+    ]
+  },
+  {
+    "id": 9,
+    "name": "Chicken Curry",
+    "category": "Non-Veg",
+    "origin": "Indian",
+    "sub_origin": "North Indian",
+    "image_url": "https://www.kitchensanctuary.com/wp-content/uploads/2022/09/Air-Fryer-Chicken-Curry-square-FS-36.jpg",
+    "macro_ingredients": [
+      "chicken",
+      "tomatoes"
+    ],
+    "ingredients": [
+      "500g chicken, cut into pieces",
+      "2 onions, finely chopped",
+      "3 tomatoes, pureed",
+      "1 tablespoon ginger-garlic paste",
+      "1 teaspoon cumin seeds",
+      "1 teaspoon coriander powder",
+      "1/2 teaspoon turmeric powder",
+      "1 teaspoon red chili powder",
+      "Ghee for cooking"
+    ],
+    "directions": [
+      "In a pan, heat ghee and add cumin seeds. Sauté chopped onions until golden brown.",
+      "Add ginger-garlic paste, coriander powder, turmeric powder, and red chili powder. Cook for 2 minutes.",
+      "Add pureed tomatoes and cook until the mixture thickens.",
+      "Add chicken pieces and cook until they are well-coated with the masala.",
+      "Cover and simmer until the chicken is cooked through. Serve hot."
+    ]
+  },
+  {
+    "id": 10,
+    "name": "Egg Masala",
+    "category": "Non-Veg",
+    "origin": "Indian",
+    "sub_origin": "South Indian",
+    "image_url": "https://images.services.kitchenstories.io/EPAs3NYa-v4uK2NumQYwhJ4Cd58=/3840x0/filters:quality(85)/images.kitchenstories.io/wagtailOriginalImages/R2899-photo-final-3x4.jpg",
+    "macro_ingredients": [
+      "eggs",
+      "onions"
+    ],
+    "ingredients": [
+      "6 eggs, boiled and peeled",
+      "2 onions, finely chopped",
+      "2 tomatoes, chopped",
+      "1 teaspoon ginger-garlic paste",
+      "1 teaspoon cumin seeds",
+      "1 teaspoon red chili powder",
+      "1/2 teaspoon turmeric powder",
+      "Garam masala for garnish",
+      "Coriander leaves for garnish"
+    ],
+    "directions": [
+      "In a pan, heat oil and add cumin seeds. Sauté chopped onions until golden brown.",
+      "Add ginger-garlic paste, chopped tomatoes, red chili powder, and turmeric powder. Cook until tomatoes are soft.",
+      "Cut boiled eggs into halves and add them to the masala. Coat the eggs with the masala.",
+      "Garnish with garam masala and coriander leaves. Serve hot."
+    ]
+  }
+]
